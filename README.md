@@ -1,3 +1,9 @@
+# Netflix Clone
+![](https://www.smartdnsproxy.com/images/devices-netflix.jpg)
+## Demo
+
+https://netflix-clone-hs14.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
