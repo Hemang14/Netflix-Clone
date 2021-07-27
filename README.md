@@ -4,6 +4,11 @@
 
 https://netflix-clone-hs14.web.app/
 
+## Credits
+Implemented from the knowledge learnt from Clever Programmer(https://www.youtube.com/watch?v=XtMThy8QKqU&ab_channel=CleverProgrammer)
+
+API used from TMDB Movie Api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
